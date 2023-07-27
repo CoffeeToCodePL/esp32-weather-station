@@ -1,0 +1,6 @@
+[submodule "drivers/esp-i2c-cpp"]
+	path = drivers/esp-i2c-cpp
+	url = https://github.com/CoffeeToCodePL/esp-i2c-cpp.git
+[submodule "drivers/esp-bme280-cpp"]
+	path = drivers/esp-bme280-cpp
+	url = https://github.com/CoffeeToCodePL/esp-bme280-cpp.git

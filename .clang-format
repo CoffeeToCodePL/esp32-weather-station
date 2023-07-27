@@ -1,0 +1,7 @@
+Language: Cpp
+BasedOnStyle: Mozilla
+ColumnLimit: 0
+AlwaysBreakAfterDefinitionReturnType: None
+AlwaysBreakAfterReturnType: None
+NamespaceIndentation: All
+SortIncludes: Never
