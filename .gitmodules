@@ -4,3 +4,9 @@
 [submodule "drivers/esp-bme280-cpp"]
 	path = drivers/esp-bme280-cpp
 	url = https://github.com/CoffeeToCodePL/esp-bme280-cpp.git
+[submodule "drivers/esp-uart-cpp"]
+	path = drivers/esp-uart-cpp
+	url = https://github.com/CoffeeToCodePL/esp-uart-cpp.git
+[submodule "drivers/esp-pmsx003-cpp"]
+	path = drivers/esp-pmsx003-cpp
+	url = https://github.com/CoffeeToCodePL/esp-pmsx003-cpp.git
